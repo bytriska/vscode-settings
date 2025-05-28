@@ -1,0 +1,19 @@
+{
+  // List of extensions which should be recommended for users of this workspace.
+  "recommendations": [
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "catppuccin.catppuccin-vsc-icons",
+    "github.copilot-chat",
+    "github.copilot",
+    "dbaeumer.vscode-eslint",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "naumovs.color-highlight"
+  ],
+}
